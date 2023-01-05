@@ -1,0 +1,9 @@
+/build/
+/config/
+/dist/
+!.eslintrc.js
+!.prettierrc.js
+/test/
+/static/
+node_modules/
+*/package.json
